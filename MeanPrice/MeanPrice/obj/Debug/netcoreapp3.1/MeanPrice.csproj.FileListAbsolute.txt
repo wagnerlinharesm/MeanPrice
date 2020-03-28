@@ -1,0 +1,11 @@
+C:\Users\wando\Documents\Wagner\OneDrive\Desenvolvimento\C#\MeanPrice\MeanPrice\MeanPrice\bin\Debug\netcoreapp3.1\MeanPrice.exe
+C:\Users\wando\Documents\Wagner\OneDrive\Desenvolvimento\C#\MeanPrice\MeanPrice\MeanPrice\bin\Debug\netcoreapp3.1\MeanPrice.deps.json
+C:\Users\wando\Documents\Wagner\OneDrive\Desenvolvimento\C#\MeanPrice\MeanPrice\MeanPrice\bin\Debug\netcoreapp3.1\MeanPrice.runtimeconfig.json
+C:\Users\wando\Documents\Wagner\OneDrive\Desenvolvimento\C#\MeanPrice\MeanPrice\MeanPrice\bin\Debug\netcoreapp3.1\MeanPrice.runtimeconfig.dev.json
+C:\Users\wando\Documents\Wagner\OneDrive\Desenvolvimento\C#\MeanPrice\MeanPrice\MeanPrice\bin\Debug\netcoreapp3.1\MeanPrice.dll
+C:\Users\wando\Documents\Wagner\OneDrive\Desenvolvimento\C#\MeanPrice\MeanPrice\MeanPrice\bin\Debug\netcoreapp3.1\MeanPrice.pdb
+C:\Users\wando\Documents\Wagner\OneDrive\Desenvolvimento\C#\MeanPrice\MeanPrice\MeanPrice\obj\Debug\netcoreapp3.1\MeanPrice.csprojAssemblyReference.cache
+C:\Users\wando\Documents\Wagner\OneDrive\Desenvolvimento\C#\MeanPrice\MeanPrice\MeanPrice\obj\Debug\netcoreapp3.1\MeanPrice.AssemblyInfoInputs.cache
+C:\Users\wando\Documents\Wagner\OneDrive\Desenvolvimento\C#\MeanPrice\MeanPrice\MeanPrice\obj\Debug\netcoreapp3.1\MeanPrice.AssemblyInfo.cs
+C:\Users\wando\Documents\Wagner\OneDrive\Desenvolvimento\C#\MeanPrice\MeanPrice\MeanPrice\obj\Debug\netcoreapp3.1\MeanPrice.dll
+C:\Users\wando\Documents\Wagner\OneDrive\Desenvolvimento\C#\MeanPrice\MeanPrice\MeanPrice\obj\Debug\netcoreapp3.1\MeanPrice.pdb
